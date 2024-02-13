@@ -8,7 +8,7 @@ class employee{ // creating the employee class
         
         this.name=name;
         this.basicpay=basicpay;
-    }
+    } 
     
     
     public employee(String name, double basicpay){
