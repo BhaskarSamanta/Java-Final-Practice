@@ -1,4 +1,3 @@
-
 class employee{ // creating the employee class
     String name;    //declearing two global class variable
     double basicpay;
