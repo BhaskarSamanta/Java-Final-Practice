@@ -16,7 +16,7 @@ public class newStringRev {
 				 rev = ch + rev;
 			}
             // rev = "" + rev;
-			System.out.println("Reversed word is :" + rev);
+			System.out.println("Reversed word is :" + rev); 
 			rev = " ";
 		}
         // System.out.println("Reversed word is :" + rev);
